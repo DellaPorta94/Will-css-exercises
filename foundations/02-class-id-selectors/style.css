@@ -1,0 +1,20 @@
+p1, p3, p5{
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+p3{ 
+    font-size: 24px;
+}
+
+#first{
+    color: blue;
+    font-size: 36px;
+}
+
+#second{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
+
