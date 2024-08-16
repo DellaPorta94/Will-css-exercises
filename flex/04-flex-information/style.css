@@ -1,6 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
-  /*text-align: center;*/ /* borrar luego */
+  text-align: center; /* borrar luego */
 }
 
 
@@ -24,6 +24,8 @@ img {
 .info {
   max-width: 200px;/* borrar luego */
 }
+
+/* repasar propiedad max-width, no entiendo*/
 
 /* do not edit this footer */
 .footer {
